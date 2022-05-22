@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Atticus Stonestrom"
+title                    : #"Atticus Stonestrom"
 title_separator          : "-"
 name                     : &name "Atticus Stonestrom"
 description              : &description "academic website"
@@ -105,7 +105,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-3066-5252"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://math.stackexchange.com/users/663661/atticus-stonestrom"
+  stackoverflow    : "13395564"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
